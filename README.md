@@ -8,7 +8,7 @@
 Code is largely original, some reused code from Lightning Game (same tutorial code).
 ![ATMOS Game Gif](/atmos.gif)
 
-![Atmos Game P8 File)[/atmos.p8.png)
+![Atmos Game P8 File](/atmos.p8.png)
 
 ### Lightning Game
 Code is largely original.
