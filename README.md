@@ -4,6 +4,12 @@
 ### Introduction
  The splash screen (Exemplar Games logo) was originally made by 'Cortex Carts' (https://www.lexaloffle.com/bbs/?tid=2213).
  
+### ATMOS
+Code is largely original, some reused code from Lightning Game (same tutorial code).
+![ATMOS Game Gif](/atmos.gif)
+
+![Atmos Game P8 File)[/atmos.p8.png)
+
 ### Lightning Game
 Code is largely original.
 Tutorial code used:
